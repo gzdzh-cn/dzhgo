@@ -6,6 +6,10 @@
 - 插件市场分为本地插件和云插件
 
 
+## 扫码加好友拉群
+<img src="dzh/weixin.jpg" alt="Description of image" width="200" height="280">
+
+
 ## 更新日志
 
 ### v1.1.2
