@@ -5,7 +5,7 @@ import (
 	"github.com/gzdzh/dzhcore"
 )
 
-var Version = "v0.1.1"
+var Version = "v1.1.3"
 
 func init() {
 	dzhcore.SetVersions("base", Version)

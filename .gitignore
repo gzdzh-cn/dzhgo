@@ -28,4 +28,5 @@ lock.json
 go.work
 data/logs
 other
+resource/
 
