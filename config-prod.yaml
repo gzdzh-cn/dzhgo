@@ -45,12 +45,12 @@ database:
 
 # Redis 配置示例
 redis:
-  cool:
+  core:
     address: "127.0.0.1:6379"
     db: 0
 
 core:
-  autoMigrate: true
+  autoMigrate: true  #自动建表
   eps: true
   file:
     #oss local

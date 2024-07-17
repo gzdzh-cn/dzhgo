@@ -89,6 +89,11 @@ go mod tidy
 gf run main.go
 ```
 
+3. 打包静态文件
+```bash
+gf pack public,template,resource packed/data.go
+```
+
 ## 集成命令
 
 Makefile 中集成了一些常用的命令，可以直接使用 `make` 命令执行。

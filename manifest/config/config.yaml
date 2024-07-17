@@ -50,7 +50,7 @@ redis:
     db: 0
     
 core:
-  autoMigrate: true
+  autoMigrate: true #自动建表
   eps: true
   file:
     #oss local

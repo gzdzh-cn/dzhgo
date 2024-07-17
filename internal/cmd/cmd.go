@@ -9,6 +9,9 @@ import (
 	"dzhgo/internal/base"
 	"github.com/gzdzh/dzhcore"
 
+	_ "dzhgo/internal/logic"
+	_ "dzhgo/packed"
+
 	_ "github.com/gzdzh/dzhcore/contrib/files/local"
 	_ "github.com/gzdzh/dzhcore/contrib/files/oss"
 )
