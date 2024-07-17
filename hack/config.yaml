@@ -1,0 +1,18 @@
+
+# CLI tool, only in development environment.
+# https://goframe.org/pages/viewpage.action?pageId=3673173
+gfcli:
+  # 工具编译配置
+  build:
+    name: "dzhgo"
+    arch: "amd64"
+    system: "linux"
+    mod: "none"
+    cgo: 0
+    path: "./bin"
+    version: "v1.0.5"
+
+  gen:
+    dao:
+      - link: "mysql:root:dzh123456@tcp(127.0.0.1:3306)/dzhgo_go?loc=Local&parseTime=true"
+#        tables:          "base_member_table"                                    # 指定当前数据库中需要执行代码生成的数据表。如果为空，表示数据库的所有表都会生成。
