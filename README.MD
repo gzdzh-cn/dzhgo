@@ -1,13 +1,58 @@
 # dzhgo
 
-前端地址：https://github.com/gzdzh/dzhgo-admin-vue
+## 扫码加好友拉群
+<img src="dzh/weixin.jpg" alt="Description of image" width="200" height="280">
+
+
+## dzhgo后台界面
+<img src="dzh/dzhgo.png" alt="Description of image" width="800" height="360">
+
+## 主程序dzhgo
+* 后台项目地址：https://github.com/gzdzh/dzhgo
+* 前端项目地址：https://github.com/gzdzh/dzhgo-admin-vue
 
 # 待更新
 - 插件市场分为本地插件和云插件
 
 
-## 扫码加好友拉群
-<img src="dzh/weixin.jpg" alt="Description of image" width="200" height="280">
+
+
+## 使用
+
+1. 安装依赖
+
+```bash
+go mod tidy
+```
+
+2. 运行
+
+```bash
+gf run main.go
+```
+
+3. 打包静态文件
+```bash
+gf pack public,template,resource packed/data.go
+```
+
+## 集成命令
+
+Makefile 中集成了一些常用的命令，可以直接使用 `make` 命令执行。
+
+```bash
+clean                          清理项目,用于删除开发容器及存储卷,需在本地开发环境执行
+help                           查看帮助
+init                           初始化项目,用于在开发容器生成后配置一些常用镜像,如: golang, nodejs, docker
+mysql-backup                   备份mysql
+mysql-down                     停止mysql
+mysql-up                       启动mysql
+redis-down                     停止redis
+redis-up                       启动redis
+setmirror                      设置国内镜像源,用于在开发容器生成后配置国内镜像源
+```
+
+
 
 
 ## 更新日志
@@ -75,42 +120,5 @@
 - 完成基本目录架构
 
 
-
-
-
-## 使用
-
-1. 安装依赖
-
-```bash
-go mod tidy
-```
-
-2. 运行
-
-```bash
-gf run main.go
-```
-
-3. 打包静态文件
-```bash
-gf pack public,template,resource packed/data.go
-```
-
-## 集成命令
-
-Makefile 中集成了一些常用的命令，可以直接使用 `make` 命令执行。
-
-```bash
-clean                          清理项目,用于删除开发容器及存储卷,需在本地开发环境执行
-help                           查看帮助
-init                           初始化项目,用于在开发容器生成后配置一些常用镜像,如: golang, nodejs, docker
-mysql-backup                   备份mysql
-mysql-down                     停止mysql
-mysql-up                       启动mysql
-redis-down                     停止redis
-redis-up                       启动redis
-setmirror                      设置国内镜像源,用于在开发容器生成后配置国内镜像源
-```
 
 
