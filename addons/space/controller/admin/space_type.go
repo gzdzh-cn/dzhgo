@@ -2,7 +2,7 @@ package admin
 
 import (
 	"dzhgo/addons/space/service"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type SpaceTypeController struct {

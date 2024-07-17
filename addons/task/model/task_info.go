@@ -2,7 +2,7 @@ package model
 
 import (
 	"github.com/gogf/gf/v2/os/gtime"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 const TableNameTaskInfo = "addons_task_info"

@@ -3,7 +3,7 @@ package service
 import (
 	"dzhgo/addons/dict/dao"
 	"dzhgo/addons/dict/model"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type DictTypeService struct {

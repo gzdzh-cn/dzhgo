@@ -4,7 +4,7 @@ import (
 	"dzhgo/internal/config"
 	"dzhgo/internal/model"
 	"github.com/gogf/gf/v2/os/glog"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 
 	"github.com/gogf/gf/v2/os/gctx"
 

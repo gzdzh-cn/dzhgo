@@ -1,7 +1,7 @@
 package app
 
 import (
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type BaseCommController struct {

@@ -2,7 +2,7 @@ package config
 
 import (
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 var Version = "v1.1.3"

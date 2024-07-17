@@ -2,7 +2,7 @@ package config
 
 import (
 	"dzhgo/addons/fileUpload"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 func init() {

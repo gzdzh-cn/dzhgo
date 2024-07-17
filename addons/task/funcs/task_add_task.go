@@ -5,7 +5,7 @@ import (
 	"dzhgo/addons/task/service"
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/util/gconv"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type TaskAddTask struct {

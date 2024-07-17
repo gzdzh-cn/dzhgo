@@ -7,7 +7,7 @@ package service
 
 import (
 	"context"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 	v1 "dzhgo/internal/api/admin_v1"
 
 	"github.com/gogf/gf/v2/database/gdb"

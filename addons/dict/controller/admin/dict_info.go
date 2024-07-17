@@ -4,7 +4,7 @@ import (
 	"context"
 	v1 "dzhgo/addons/dict/api/v1"
 	"dzhgo/addons/dict/service"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type DictInfoController struct {

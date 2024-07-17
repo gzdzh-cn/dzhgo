@@ -6,7 +6,7 @@ import (
 	"github.com/gogf/gf/v2/os/gctx"
 
 	"dzhgo/addons/task/model"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 
 	_ "dzhgo/addons/task/controller"
 	_ "dzhgo/addons/task/funcs"

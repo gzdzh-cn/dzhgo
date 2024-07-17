@@ -6,7 +6,7 @@ import (
 	"dzhgo/internal/service"
 
 	v1 "dzhgo/internal/api/admin_v1"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 
 	"github.com/gogf/gf/v2/frame/g"
 )

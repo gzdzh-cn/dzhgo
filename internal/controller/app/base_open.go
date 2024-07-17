@@ -6,7 +6,7 @@ import (
 	"dzhgo/internal/config"
 	logic "dzhgo/internal/logic/sys"
 	"dzhgo/internal/service"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 
 	"github.com/gogf/gf/v2/frame/g"
 	"github.com/gogf/gf/v2/util/gconv"

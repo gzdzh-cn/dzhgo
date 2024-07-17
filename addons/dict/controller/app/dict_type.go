@@ -2,7 +2,7 @@ package app
 
 import (
 	"dzhgo/addons/dict/service"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type DictTypeController struct {

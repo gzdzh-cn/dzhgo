@@ -7,13 +7,13 @@ import (
 	"github.com/gogf/gf/v2/os/gcmd"
 
 	"dzhgo/internal/base"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 
 	_ "dzhgo/internal/logic"
 	_ "dzhgo/packed"
 
-	_ "github.com/gzdzh/dzhcore/contrib/files/local"
-	_ "github.com/gzdzh/dzhcore/contrib/files/oss"
+	_ "github.com/gzdzh-cn/dzhcore/contrib/files/local"
+	_ "github.com/gzdzh-cn/dzhcore/contrib/files/oss"
 )
 
 var (

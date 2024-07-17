@@ -5,7 +5,7 @@ import (
 	v1 "dzhgo/internal/api/admin_v1"
 	logic "dzhgo/internal/logic/sys"
 	"dzhgo/internal/service"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type BaseSysUserController struct {

@@ -2,7 +2,7 @@ package admin
 
 import (
 	logic "dzhgo/internal/logic/sys"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type BaseSysAddonsTypeController struct {

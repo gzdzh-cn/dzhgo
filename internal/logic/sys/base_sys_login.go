@@ -12,7 +12,7 @@ import (
 	v1 "dzhgo/internal/api/admin_v1"
 	"dzhgo/internal/config"
 	"dzhgo/internal/model"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 
 	"github.com/gogf/gf/v2/crypto/gmd5"
 	"github.com/gogf/gf/v2/encoding/gbase64"

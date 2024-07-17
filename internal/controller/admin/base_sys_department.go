@@ -6,7 +6,7 @@ import (
 	logic "dzhgo/internal/logic/sys"
 	"dzhgo/internal/service"
 
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type BaseSysDepartmentController struct {

@@ -1,6 +1,6 @@
 package model
 
-import "github.com/gzdzh/dzhcore"
+import "github.com/gzdzh-cn/dzhcore"
 
 const TableNameTaskLog = "addons_task_log"
 

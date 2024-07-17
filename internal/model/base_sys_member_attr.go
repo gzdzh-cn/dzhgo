@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 const TableNameBaseSysMemberAttr = "base_sys_member_attr"

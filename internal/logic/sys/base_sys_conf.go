@@ -7,7 +7,7 @@ import (
 	"dzhgo/internal/service"
 	"github.com/bwmarrin/snowflake"
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 func init() {

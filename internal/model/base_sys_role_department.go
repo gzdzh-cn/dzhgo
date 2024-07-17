@@ -1,6 +1,6 @@
 package model
 
-import "github.com/gzdzh/dzhcore"
+import "github.com/gzdzh-cn/dzhcore"
 
 const TableNameBaseSysRoleDepartment = "base_sys_role_department"
 

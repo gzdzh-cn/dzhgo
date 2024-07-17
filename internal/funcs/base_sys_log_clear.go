@@ -3,7 +3,7 @@ package funcs
 import (
 	logic "dzhgo/internal/logic/sys"
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type BaseFuncClearLog struct {

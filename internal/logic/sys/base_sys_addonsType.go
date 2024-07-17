@@ -4,7 +4,7 @@ import (
 	"dzhgo/internal/dao"
 	"dzhgo/internal/model"
 	"dzhgo/internal/service"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 
 	"github.com/gogf/gf/v2/frame/g"
 )

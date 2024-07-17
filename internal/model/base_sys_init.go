@@ -3,7 +3,7 @@ package model
 import (
 	"github.com/gogf/gf/v2/os/gctx"
 	"github.com/gogf/gf/v2/os/glog"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 const TableNameBaseSysInit = "base_sys_init"

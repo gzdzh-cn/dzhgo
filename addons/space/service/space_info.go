@@ -3,7 +3,7 @@ package service
 import (
 	"dzhgo/addons/space/dao"
 	"dzhgo/addons/space/model"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type SpaceInfoService struct {

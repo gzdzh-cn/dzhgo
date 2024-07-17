@@ -2,7 +2,7 @@ package funcs
 
 import (
 	"github.com/gogf/gf/v2/frame/g"
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 type TaskTest struct {

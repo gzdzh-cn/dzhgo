@@ -1,7 +1,7 @@
 package model
 
 import (
-	"github.com/gzdzh/dzhcore"
+	"github.com/gzdzh-cn/dzhcore"
 )
 
 const TableNameDictInfo = "addons_dict_info"
