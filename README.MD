@@ -8,8 +8,8 @@
 <img src="dzh/dzhgo.png" alt="Description of image" width="800" height="360">
 
 ## 主程序dzhgo
-* 后台项目地址：https://github.com/gzdzh/dzhgo
-* 前端项目地址：https://github.com/gzdzh/dzhgo-admin-vue
+* 后台项目地址：https://github.com/gzdzh-cn/dzhgo
+* 前端项目地址：https://github.com/gzdzh-cn/dzhgo-admin-vue
 
 # 待更新
 - 插件市场分为本地插件和云插件
